@@ -1,0 +1,13 @@
+nav ul{
+	float: left;
+	list-style: none;
+	margin-right: 40px;
+	position: relative;
+
+}
+
+nav ul li {
+	float:left;
+	display: inline-block;
+	background: black;
+}
